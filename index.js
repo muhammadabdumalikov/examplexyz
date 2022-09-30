@@ -1,1 +1,1 @@
-export { Calc } from "./src/calc";
+export { Calc } from "./src/calc.js";
